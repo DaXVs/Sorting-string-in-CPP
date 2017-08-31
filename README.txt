@@ -1,0 +1,1 @@
+Sequence drawn from Strings.
